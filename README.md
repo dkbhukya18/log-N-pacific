@@ -1,6 +1,6 @@
 # LOG(N) Pacific – Windows 11 STIG Remediation Scripts
 
-PowerShell scripts that remediate Windows 11 DISA STIG findings, written during my SOC Analyst internship in the LOG(N) Pacific Cyber Range, a live Microsoft Azure environment intentionally exposed to real-world attacks.
+PowerShell scripts that remediate Windows 11 DISA STIG findings, written during my self-paced, hands-on SOC Analyst program in the LOG(N) Pacific Cyber Range, a live Microsoft Azure environment intentionally exposed to real-world attacks.
 
 ## Workflow
 
